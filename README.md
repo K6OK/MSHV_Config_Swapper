@@ -12,6 +12,10 @@ Program allows the user to store and load up to 6 different MSHV
 configurations. Each saved configuration includes all of the settings in effect when 
 saved.
 
+**DOWNLOAD.** Click on "Releases" on the right and download MSHV_Config_Swapper.exe.
+This is a single portable Win32 desktop application file. Place just about 
+anywhere on your PC hard drive.  
+
 **INSTALL.**  Run Swapper. Click Setup. Follow the instructions: Step 1 creates the 
 storage folders on your drive (in {USER}\AppData\Local). Step 2 asks you to 
 show Swapper where your MSHV folder is.
