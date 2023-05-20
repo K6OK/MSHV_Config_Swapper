@@ -27,9 +27,25 @@ write a short description into one of the 6 memory slots.  Click Save.
 buttons to load that previously saved configuration. Restart MSHV.  Hovering your 
 mouse over the button will display your description for that configuration.
 
-NOTE: You must shut down MSHV before loading a saved configuration. 
+NOTE: You must shut down MSHV before loading a saved configuration.
 
-WHY IS SWAPPER SO SMALL?  I did that on purpose because I wanted to be able 
+---------------------
+
+**Example of Typical Usage:**  
+You wish to use MSHV for normal FT-8 DXing (HF) but also be able to switch to meteor scatter on 6 meters.
+
+Prepare and Load the Memories:
+1. Set all MSHV options for normal FT-8 DXing as you like them. Go to Swapper, select Configuration, and put "Normal HF FT8" in the entry box for Memory 1.  Click Save.
+2. Set all MSHV options for meteor scatter. Go to Swapper/Configuration, put "Meteor Scatter" in the entry box for Memory 2. Click Save.
+
+Normal Use: 
+  
+You decide to start operating in meteor scatter mode. Start Swapper first, click on Memory button 2. Now start MSHV.  It's ready for meteor scatter work.
+Later you wish to do regular HF FT-8.  Close MSHV. Go to Swapper, click on Memory button 1. Restart MSHV. It's now ready for HF FT-8.
+
+---------------------
+
+WHY IS SWAPPER SO SMALL?  It's small on purpose because I wanted to be able 
 to tuck it into a screen corner and not use up very much monitor real estate.
 
 Tested on Windows 10 with MSHV 2.71. -- 73 gud DX!
